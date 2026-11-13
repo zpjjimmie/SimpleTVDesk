@@ -1,0 +1,6 @@
+.tools/
+build/
+*.apk
+*.jks
+*.keystore
+scripts/home-backups/
